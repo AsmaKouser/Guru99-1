@@ -15,6 +15,7 @@ public class WindowsHandling {
 		driver.get("http://demo.automationtesting.in/Windows.html");
 		/*driver.findElement(By.linkText("Open New Seperate Windows")).click();
 		driver.findElement(By.xpath("//button[@class='btn btn-primary']")).click();
+		//handle windows
 		
 		Set<String> winIds=driver.getWindowHandles();
 		System.out.println(winIds.size());
